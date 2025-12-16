@@ -3,7 +3,7 @@
 ## Week 51
 #### Tuesday
 - [x] RedBook operation
-- [ ] Workout vlog
+- [x] Workout vlog
 - [ ] PT API HTTPie preparation
 
 #### Monday
