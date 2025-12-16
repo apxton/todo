@@ -4,7 +4,8 @@
 #### Tuesday
 - [x] RedBook operation
 - [x] Workout vlog
-- [ ] PT API HTTPie preparation
+- [x] PT API HTTPie preparation
+- [x] Junior accountant preparation 
 
 #### Monday
 - [x] RedBook operation
