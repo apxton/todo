@@ -1,6 +1,11 @@
 # Todo
 
 ## Week 51
+#### Tuesday
+- [x] RedBook operation
+- [ ] Workout vlog
+- [ ] PT API HTTPie preparation
+
 #### Monday
 - [x] RedBook operation
 - [x] Workout vlog
