@@ -1,6 +1,12 @@
 # Todo
 
 ## Week 51
+#### Wednesday
+- [x] RedBook operation (First user have completed 21 days challenge)
+- [x] Workout vlog
+- [x] Junior accountant preparation 
+- [ ] PT API HTTPie preparation
+
 #### Tuesday
 - [x] RedBook operation
 - [x] Workout vlog
