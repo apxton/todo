@@ -5,7 +5,7 @@
 - [x] RedBook operation (First user have completed 21 days challenge)
 - [x] Workout vlog
 - [x] Junior accountant preparation 
-- [ ] PT API HTTPie preparation
+- [x] PT API HTTPie preparation
 
 #### Tuesday
 - [x] RedBook operation
@@ -34,6 +34,3 @@
 - [x] ttdp.com with dark/light background 
 - [x] RedBook operation
 - [x] MU contract renewed for three and a half years 
-
-
-
