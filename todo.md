@@ -8,6 +8,7 @@
 - [x] Bizesoft account backup
 - [x] StarsWorkout account backup
 - [x] PT API HTTPie preparation
+- [x] PT API HTTPie upload avatar
 
 #### Wednesday
 - [x] RedBook operation (First user have completed 21 days challenge)
