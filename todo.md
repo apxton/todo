@@ -4,7 +4,10 @@
 #### Thursday
 - [x] RedBook operation
 - [x] PT Auth Development
-- [ ] Combine web3 wallets
+- [x] Web3 wallets backup
+- [x] Bizesoft account backup
+- [x] StarsWorkout account backup
+- [x] PT API HTTPie preparation
 
 #### Wednesday
 - [x] RedBook operation (First user have completed 21 days challenge)
