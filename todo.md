@@ -1,6 +1,11 @@
 # Todo
 
 ## Week 51
+#### Thursday
+- [x] RedBook operation
+- [x] PT Auth Development
+- [ ] Combine web3 wallets
+
 #### Wednesday
 - [x] RedBook operation (First user have completed 21 days challenge)
 - [x] Workout vlog
