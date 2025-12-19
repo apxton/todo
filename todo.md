@@ -1,6 +1,11 @@
 # Todo
 
 ## Week 51
+#### Friday
+- [x] RedBook operation
+- [x] PT Auth Development
+- [x] PT API HTTPie preparation
+
 #### Thursday
 - [x] RedBook operation
 - [x] PT Auth Development
