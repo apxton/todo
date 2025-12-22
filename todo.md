@@ -1,5 +1,11 @@
 # Todo
 
+## Week 52
+#### Monday
+- [x] RedBook operation
+- [x] Workout vlog
+- [ ] PT API HTTPie preparation
+
 ## Week 51
 #### Friday
 - [x] RedBook operation
