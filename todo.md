@@ -1,6 +1,11 @@
 # Todo
 
 ## Week 52
+#### Tuesday
+- [x] RedBook operation
+- [ ] Workout vlog
+- [ ] HaiWaiDai mini programme registration
+
 #### Monday
 - [x] RedBook operation
 - [x] Workout vlog
