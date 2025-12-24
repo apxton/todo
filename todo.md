@@ -1,6 +1,11 @@
 # Todo
 
 ## Week 52
+#### Wednesday
+- [x] RedBook operation
+- [x] Workout vlog
+- [ ] StarsWorkout smaller font
+
 #### Tuesday
 - [x] RedBook operation
 - [x] Workout vlog
