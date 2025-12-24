@@ -4,7 +4,7 @@
 #### Wednesday
 - [x] RedBook operation
 - [x] Workout vlog
-- [ ] StarsWorkout smaller font
+- [x] StarsWorkout use smaller font
 
 #### Tuesday
 - [x] RedBook operation
