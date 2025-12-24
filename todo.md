@@ -5,6 +5,7 @@
 - [x] RedBook operation
 - [x] Workout vlog
 - [x] StarsWorkout use smaller font
+- [x] ThoughtWorks is good, but we should not go that way 
 
 #### Tuesday
 - [x] RedBook operation
