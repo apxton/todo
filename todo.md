@@ -1,6 +1,11 @@
 # Todo
 
 ## Week 52
+#### Thursday
+- [x] RedBook operation
+- [x] StarsWorkout iOS font refine
+- [x] PT main page layout design
+
 #### Wednesday
 - [x] RedBook operation
 - [x] Workout vlog
