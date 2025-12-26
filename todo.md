@@ -1,9 +1,20 @@
 # Todo
 
 ## Week 52
+#### Friday 1/6 sprint
+- [x] Main page: Welcome back PT，scan button
+- [ ] Main page: Pinned client, all button (collection view)
+- [ ] Main page: Week calendar (Displayed when selecting a client)
+- [ ] Main page: Today's routine
+- [ ] Main page: Today's extra routine
+- [ ] Main page: Exercise more
+- [ ] Main page: Moment
+
 #### Thursday
 - [x] RedBook operation
 - [x] StarsWorkout iOS font refine
+- [x] StarsWorkout iOS v1.0.5 release 
+- [x] HaiWaiDai mini program beian 
 - [x] PT main page layout design
 
 #### Wednesday
